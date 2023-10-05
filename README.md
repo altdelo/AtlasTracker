@@ -14,28 +14,4 @@ There is three TimeCard types:
 Meeting and Task TimeCards are pretty much the same with different category name to keep the separete.
 Break TimeCard dosent store any discrption and wont ask you for any notes.
 
-## How to use
-### Step 1 Open up program
-Donwload zip folder. In the folder there will be this readme text and a folder eith an EXE file. 
-You can put the exe file where ever you want on your pc. Where the exe is placed is the same place all timeCard data will be stored in a txt file
-![image](https://github.com/altdelo/AtlasTracker/assets/75321626/42b8872a-7056-4de3-8fbd-915e9ae1d644)
-
-### Step 2 Start day
-Sart using AtlasTracker by hitting the Start Day button!
-
-### Step 2
-Then you press a TimeCard that fit what you are going to start. And start your meeting/break/task!
-
-### Step 3
-When you are done you open up the AtlasTracker Window again and press the button that you are back form your activity.
-If your TimeCard was break then super you are done!
-If it was a meeting or break TimeCard read below!
-Then new window appear to write some notes on what you did during the meeting/task and then press OK button
-#### Step 4 End Day
-
-When your day is over and no more TimeCards need to be used you press End Day button and the txt file with all your timeCard information
-Copy paste this to your task tracker website of choice
-
-![Atlas_Tracker](https://github.com/altdelo/AtlasTracker/assets/75321626/4c39dc4d-a724-497a-bd49-7ca0cd58a185)
-
-
+## [How to use](https://github.com/altdelo/AtlasTracker/wiki/How-to-use)
