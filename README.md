@@ -1,6 +1,5 @@
 # AtlasTracker
-### __New here?__ 
-[Go to How to download](#How-to-Download)
+### __New here?__ [Go to How to download](#How-to-Download)
 Tool to handle project logging easier. I always forget to logg my progress during the day and remeber it at the end. 
 At that time i have forgotten everything and find it a hard time to logg accurately and this is why i have created a Tool to make this all easier!
 
