@@ -1,5 +1,6 @@
 # AtlasTracker
-### __New here?__ [Go to How to download](https://github.com/altdelo/AtlasTracker/blob/main/README.md#how-to-download)
+### __New here?__ 
+[Go to How to download](#How-to-Download)
 Tool to handle project logging easier. I always forget to logg my progress during the day and remeber it at the end. 
 At that time i have forgotten everything and find it a hard time to logg accurately and this is why i have created a Tool to make this all easier!
 
@@ -21,3 +22,5 @@ You can put the exe file where ever you want on your pc. Where the exe is placed
 ![image](https://github.com/altdelo/AtlasTracker/assets/75321626/42b8872a-7056-4de3-8fbd-915e9ae1d644)
 
 ## [How to use](https://github.com/altdelo/AtlasTracker/wiki/How-to-use)
+
+# Test
