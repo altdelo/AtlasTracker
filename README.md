@@ -20,4 +20,4 @@ You can put the exe file where ever you want on your pc. Where the exe is placed
 
 ![image](https://github.com/altdelo/AtlasTracker/assets/75321626/42b8872a-7056-4de3-8fbd-915e9ae1d644)
 
-## To Get started go to [How to use](https://github.com/altdelo/AtlasTracker/wiki/How-to-use)
+### Then go to [How to use](https://github.com/altdelo/AtlasTracker/wiki/How-to-use)
