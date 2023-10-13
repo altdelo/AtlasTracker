@@ -14,6 +14,10 @@ There is three TimeCard types:
 Meeting and Task TimeCards are pretty much the same with different category name to keep the separete.
 Break TimeCard dosent store any discrption and wont ask you for any notes.
 
+## Wounder what im working on right now?
+To see what is coming in the future go to [Features](https://github.com/altdelo/AtlasTracker/wiki/Feature-to-come)
+You have any cool ideas thats not in the *Features to come* write to me on discord!
+
 ## How to Download
 Donwload zip folder. In the folder there will be this readme text and a folder eith an EXE file. 
 You can put the exe file where ever you want on your pc. Where the exe is placed is the same place all timeCard data will be stored in a txt file
